@@ -49,7 +49,7 @@ The project will be executed in five distinct phases, with each phase having a d
 
 This foundational phase is crucial for ensuring data quality and uncovering initial insights that will guide the modeling stages.
 
-**Team Member: Omar Khaled**
+**Team Member: Elias Zerz**
 
 **Responsibilities:**
 - Lead the complete data preprocessing pipeline including data loading, cleaning, and initial exploration
@@ -73,7 +73,7 @@ This foundational phase is crucial for ensuring data quality and uncovering init
 
 This phase focuses on building predictive models to estimate ride prices based on the features engineered in Phase 1.
 
-**Team Member: Elias Zerz**
+**Team Member: Omar Khaled**
 
 **Responsibilities:**
 - Lead the development and evaluation of supervised regression models for price prediction
