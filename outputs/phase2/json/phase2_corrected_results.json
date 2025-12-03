@@ -1,0 +1,21 @@
+{
+    "model": "XGBoost Regressor (Train/Test Split)",
+    "target": "total_amount",
+    "features": [
+        "passenger_count",
+        "trip_distance",
+        "pickup_longitude",
+        "pickup_latitude",
+        "dropoff_longitude",
+        "dropoff_latitude",
+        "hour",
+        "day",
+        "month",
+        "weekday",
+        "is_weekend",
+        "is_rush_hour"
+    ],
+    "rmse": 2.7743823345529672,
+    "mae": 1.661356295923138,
+    "r2_score": 0.9326117103516595
+}
